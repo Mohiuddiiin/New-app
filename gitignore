@@ -1,0 +1,13 @@
+# Local/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+.env
+.env.*
+# Local exports and backups
+dailybudget-*.csv
+*.dump
+*.sql.gz
